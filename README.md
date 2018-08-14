@@ -118,4 +118,7 @@ the_numbers.include?(6)   #=> false
 
 The `#include?` expression first returns `true` because `the_numbers[5] == 42`. When it is run with `6`, it will evaluate to `false` since that item is not present in the array.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-boolean-enumerables/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-boolean-enumerables/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Boolean Enumerables</p>
